@@ -1,4 +1,4 @@
-package com.atguigu.flink.chapter05;
+package com.atguigu.flink.source;
 
 import org.apache.flink.api.common.serialization.SimpleStringSchema;
 import org.apache.flink.streaming.api.datastream.DataStreamSource;
